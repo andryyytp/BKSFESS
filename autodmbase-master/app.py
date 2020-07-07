@@ -3,6 +3,7 @@ import time
 
 #test mancing heroku
 #mau pancing lagi
+#test pancing keheroku supaya keluar dya
 
 tw = Twitter()
 
